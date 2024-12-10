@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todotest/static/css/main.bf033060.css",
+    "main.js": "/todotest/static/js/main.062060d2.js",
+    "index.html": "/todotest/index.html",
+    "main.bf033060.css.map": "/todotest/static/css/main.bf033060.css.map",
+    "main.062060d2.js.map": "/todotest/static/js/main.062060d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf033060.css",
+    "static/js/main.062060d2.js"
+  ]
+}
